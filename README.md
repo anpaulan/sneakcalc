@@ -33,6 +33,5 @@ Optional Inputs
 - Order Number: order number to be used to search within emails
 - Email: email used to place order
 
-
 RESOURCES NEEDED:
 - HTML, CSS, SQL, PYTHON, Visualization program (i.e. seaborn)
